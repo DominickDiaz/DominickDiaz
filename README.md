@@ -2,7 +2,7 @@
 ### Upcoming Software Engineer @ Atlassian working on Jira!
 ---
 #### Here you will find a technical overview of me and also be able to see some of what I have worked on.
-I will be adding many of the application which I have worked on for those who want to use them. Everything is documented fairly welll and for the things which I plan on keeping private I will be making demo's for. Thanks for visiting ❤️ - Dom, May 8 
+I will be adding many of the application which I have worked on for those who want to use them. Everything is documented fairly well and for the things which I plan on keeping private I will be making demo's for. Thanks for visiting ❤️ - Dom, May 8 
 
 >Programming Languanges
 
