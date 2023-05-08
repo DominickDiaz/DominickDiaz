@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=22C100&width=435&lines=Hey+there!+I'm+Dominick+*;Welcome+to+my+Github!)](https://git.io/typing-svg)
-### Upcomming Softare Engineer Intern @ Atlassian 
----
-#### Here you will find a technical overview of me and also be able to see some of what I have worked on.
+
+### Here you will find a technical overview of me and also be able to see some of what I have worked on.
 I will be adding many of the application which I have worked on for those who want to use them. Everything is documented fairly well and for the things which I plan on keeping private I will be making demo's for. Thanks for visiting ❤️ - Dom, May 8 
 
+---
 >Programming Languanges
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
