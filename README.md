@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=00C822&width=435&lines=Welcome!+I+am+Dominick+*" alt="Typing SVG" /></a>
 <!--
 **DominickDiaz/DominickDiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
