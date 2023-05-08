@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=22C100&width=435&lines=Hey+there!+I'm+Dominick+*;Welcome+to+my+Github!)](https://git.io/typing-svg)
-### Upcoming Software Engineer @ Atlassian working on Jira!
+##### Upcoming Software Engineer @ Atlassian working on Jira!
 ---
 Here you will find a technical overview of what I am 
 
