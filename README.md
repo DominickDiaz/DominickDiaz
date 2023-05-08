@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BB23&center=true&width=435&lines=Hey+there!+I+am+Dominick+*;Welcome+to+my+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=00BB23&width=435&lines=Hey+there!+I+am+Dominick+*;Welcome+to+my+Github)](https://git.io/typing-svg)
 ### Upcoming Software Engineer @ Atlassian working on Jira!
 ---
 Here you will find a technical overview of what I am 
