@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
->Proficient Programming Languanges
+>Programming Languanges
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
