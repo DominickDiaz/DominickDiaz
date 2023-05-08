@@ -36,7 +36,7 @@ I will be adding many of the application which I have worked on for those who wa
 
 
 
-![]
+![](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
 
 
 
