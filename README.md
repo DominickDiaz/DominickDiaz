@@ -2,8 +2,7 @@
 
 ### Here you will find a technical overview of me!
 
-been uploading to bitbucket but now i am back on good ole github. 
-
+UNDER CONSTRUCTION - OLD UPLOADS - DISTRIBUTED SYSTEMS SOON
 
 ---
 >Programming Languanges
